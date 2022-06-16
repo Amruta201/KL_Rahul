@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.top-section-cricketer {
+    background-color: #fb4e71;
+    padding: 15px;
+}
+
+.cricketer-heading {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    padding: 10px;
+    margin-left: 5px;
+}
+
+.cricketer-description {
+    font-family: "Roboto";
+    font-size: 17px;
+    color: white;
+    padding: 10px;
+    margin-left: 5px;
+}
+
+.bottom-section {
+    background-color: #e6f6ff;
+    height: 300px;
+    padding: 10px;
+}
+
+.IPL-records-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+    padding: 10px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.IPL-records-card-container {
+    background-color: #ffffff;
+    margin: 20px;
+    border-radius: 20px;
+    padding: 10px
+}
+
+.sub-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.IPL-score-description {
+    color: #888888;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.Videos-text-container {
+    width: 95px;
+    margin: 14px;
+}
